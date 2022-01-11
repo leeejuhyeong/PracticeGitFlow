@@ -9,3 +9,5 @@
 2. Feature 브랜치에서 merge하기 전에 다른 개발자가 develop에 기능을 추가함!
 
 3. 여기서 바꾸면/?
+
+5. 또다시 feature에서 merege한 내용이 develop에 반영이 안됨!
